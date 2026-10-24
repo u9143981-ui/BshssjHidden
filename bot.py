@@ -9,7 +9,7 @@ import threading
 import os
 
 # Token from environment variable (Railway)
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7771775192:AAF0ppoZAHbKQdiGhylreG5mJT4KbOhrEgw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8695604407:AAFj49OFbTulux5HTG96j16780xIj5HlCus")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Configure logging
